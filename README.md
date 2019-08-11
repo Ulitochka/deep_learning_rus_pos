@@ -1,5 +1,6 @@
 ## Research of Neural Network Effectiveness for a Morphological tagging for russian.
-2017 Mikhail Domrachev
+
+Practice from http://www.dia.fi.upm.es/es/ASDM
 
 
 -------------------------------------------
